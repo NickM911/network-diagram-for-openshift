@@ -8,5 +8,5 @@ resources:
   memory_gb: 1
   disk_size_mb: 30
   limits:
-  memory: 800Mi
+  memory: 750Mi
   ephemeral-storage: 1Gi
